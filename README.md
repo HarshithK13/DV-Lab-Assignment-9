@@ -1,6 +1,5 @@
-# DV-Lab-Assignment-9
+# Technology Stocks Dashboard 
 
-## Technology Stocks Dashboard 
 This is a Shiny app that allows users to visualize the stock prices and trading volumes of popular technology companies. Users can select one or more companies, as well as a date range, and the app will display the corresponding stock prices and volumes in interactive plots.
 To use this app, you need to have the following packages installed in R:
 - shiny
